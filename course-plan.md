@@ -514,7 +514,7 @@ Al finalizar esta lección podrás:
 - Universidad Peruana de Ciencias Aplicadas
 - Carrera de Ingeniería de Software
 - Período 202610
-- 1ASI0730 Aplicaciones Web — NRC REEMPLAZAR-NRC
+- 1ASI0730 Aplicaciones Web — NRC 12190
 
 **Nombre del equipo**: Kauflink
 
