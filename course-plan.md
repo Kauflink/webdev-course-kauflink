@@ -514,9 +514,18 @@ Al finalizar esta lección podrás:
 - Universidad Peruana de Ciencias Aplicadas
 - Carrera de Ingeniería de Software
 - Período 202610
-- 1ASI0730 Aplicaciones Web
+- 1ASI0730 Aplicaciones Web — NRC REEMPLAZAR-NRC
 
 **Nombre del equipo**: Kauflink
+
+**Líder del equipo**: Joseph Julius Camargo Briceño
+
+**Integrantes del equipo**:
+
+- Lionel Abraham Chavez Carrasco
+- Jose Fernando Flores Pinchi
+- Elynor Mikela Palma De Los Santos
+- Jose Antonio Peirano Brun
 
 ### Resumen de la elaboración en equipo
 
