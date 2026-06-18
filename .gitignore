@@ -1,0 +1,14 @@
+# OS / editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Online editor metadata
+.replit
+replit.nix
+.config/
+.upm/
+
+# Logs
+*.log
