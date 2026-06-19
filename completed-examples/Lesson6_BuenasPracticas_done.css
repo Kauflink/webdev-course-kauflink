@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #222222;
+  background-color: #ffffff;
+  padding: 24px;
+}
+
+h1 {
+  color: #047857;
+}
+
+/* Una clase reutilizable en vez de repetir estilos */
+.destacado {
+  background-color: #ecfdf5;
+  border-left: 4px solid #047857;
+  padding: 8px 12px;
+}
