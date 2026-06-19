@@ -21,13 +21,14 @@
 ## Lección 4 — Introducción a CSS (10 min)
 - **Puntos clave**: CSS da estilo. Mostrar la idea de selector + propiedad + valor (`h1 { color: blue; }`).
 - Presentar `color`, `background-color`, `font-family`, `font-size`.
-- Explicar el CSS interno dentro de `<style>` en el `<head>`.
+- Explicar que el CSS va en su propio archivo `.css` y se enlaza con `<link rel="stylesheet" href="...">` en el `<head>` (así lo usan los archivos de práctica `Lesson4_IntroCSS.css`).
 - **Sugerencia**: Que cambien colores y vean el resultado en vivo.
-- **Error común a vigilar**: Olvidar el `;` al final de cada propiedad o las llaves `{ }`.
+- **Error común a vigilar**: Olvidar el `;` al final de cada propiedad o las llaves `{ }`. Verificar también que el `href` del `<link>` apunte al nombre correcto del archivo `.css`.
 
 ## Lección 5 — Estilo y Página de Perfil (12 min)
 - **Puntos clave**: Combinar HTML y CSS para construir una página de perfil real: centrar contenido (`margin: 0 auto`, `text-align`), colores, bordes (`border`, `border-radius`).
 - Introducir el atributo `class` y el selector `.clase`.
+- El estilo vive en su propio archivo (`Lesson5_PaginaPerfil.css`); el HTML solo lleva la estructura y el `<link>`.
 - **Sugerencia**: Que personalicen la tarjeta con sus propios datos y foto.
 - **Error común a vigilar**: Confundir el selector de clase (`.tarjeta`) con el de etiqueta (`tarjeta`).
 
