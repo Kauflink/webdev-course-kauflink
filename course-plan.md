@@ -478,7 +478,7 @@ Al finalizar esta lección podrás:
 
 #### Práctica
 
-**Práctica final**: [Abrir en CodePen – Reto de Errores](https://codepen.io/pen/REEMPLAZAR-L6)
+**Práctica final**: [Abrir en CodePen – Reto de Errores](https://codepen.io/DoomerGX21/pen/dPNNrRw)
 
 **Reto**: Toma la página con 3 errores, corrígelos todos y aplica una clase `.destacado` que use un color de fondo y un borde a la izquierda.
 
