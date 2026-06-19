@@ -260,25 +260,35 @@ h1 {
 
 **Dónde se escribe el CSS**
 
-El CSS va dentro de una etiqueta `<style>` en el `<head>`:
+Lo más ordenado es escribir el CSS en su **propio archivo** (por ejemplo `estilos.css`) y enlazarlo desde el `<head>` del HTML con la etiqueta `<link>`:
 
 ```html
 <head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f4f8;
-    }
-    h1 {
-      color: #1d4ed8;
-    }
-    p {
-      color: #333333;
-      font-size: 18px;
-    }
-  </style>
+  <meta charset="UTF-8" />
+  <title>Mi primer CSS</title>
+  <link rel="stylesheet" href="estilos.css" />
 </head>
 ```
+
+Y en el archivo `estilos.css` van las reglas:
+
+```css
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+}
+
+h1 {
+  color: #1d4ed8;
+}
+
+p {
+  color: #333333;
+  font-size: 18px;
+}
+```
+
+> También puedes escribir el CSS dentro de una etiqueta `<style>` en el `<head>`, pero separarlo en su propio archivo `.css` mantiene el código más limpio y es la forma que usan los archivos de práctica de este curso.
 
 **Propiedades útiles para empezar**
 
@@ -306,7 +316,7 @@ El CSS va dentro de una etiqueta `<style>` en el `<head>`:
 
 - CSS controla el aspecto de la página.
 - Cada regla tiene **selector**, **propiedad** y **valor**.
-- El CSS interno va dentro de `<style>` en el `<head>`.
+- El CSS se guarda en su propio archivo `.css` y se enlaza con `<link>` en el `<head>`.
 
 ---
 
@@ -356,37 +366,15 @@ Una **clase** es una etiqueta que tú inventas para aplicar el mismo estilo a un
 
 **Página de perfil completa**
 
+El HTML enlaza su hoja de estilos con `<link>` y solo se ocupa de la estructura:
+
 ```html
 <!DOCTYPE html>
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
     <title>Página de perfil</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background-color: #eef2f7;
-        padding: 40px;
-      }
-      .tarjeta {
-        max-width: 400px;
-        margin: 0 auto;
-        background-color: #ffffff;
-        border: 2px solid #1d4ed8;
-        border-radius: 12px;
-        padding: 24px;
-        text-align: center;
-      }
-      .tarjeta img {
-        width: 120px;
-        height: 120px;
-        border-radius: 50%;   /* foto redonda */
-        object-fit: cover;
-      }
-      .tarjeta h1 {
-        color: #1d4ed8;
-      }
-    </style>
+    <link rel="stylesheet" href="estilos.css" />
   </head>
   <body>
     <div class="tarjeta">
@@ -397,6 +385,37 @@ Una **clase** es una etiqueta que tú inventas para aplicar el mismo estilo a un
     </div>
   </body>
 </html>
+```
+
+Y en `estilos.css` va todo el estilo de la tarjeta:
+
+```css
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eef2f7;
+  padding: 40px;
+}
+
+.tarjeta {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border: 2px solid #1d4ed8;
+  border-radius: 12px;
+  padding: 24px;
+  text-align: center;
+}
+
+.tarjeta img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;   /* foto redonda */
+  object-fit: cover;
+}
+
+.tarjeta h1 {
+  color: #1d4ed8;
+}
 ```
 
 > **Pausa y prueba:** cambia el nombre, la edad y los gustos por los tuyos. Cambia también el color del borde de la tarjeta.
