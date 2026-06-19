@@ -225,12 +225,12 @@ Hay seis niveles de encabezado, de `<h1>` (el más grande) a `<h6>` (el más peq
 
 ---
 
-### Lección 4: Introducción a CSS (10 minutos)
+### Lección 4: Introducción a CSS (8 minutos)
 
 **Dificultad**: ⭐⭐⭐☆☆ Intermedio básico
 
 - **Descripción**: Dale color y estilo a tu página con CSS. Aprenderás selectores y propiedades básicas.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK4)
+- **Enlace**: [Ver la lección](https://youtu.be/kmGSI8FmNW4)
 
 #### Objetivos
 
