@@ -439,7 +439,7 @@ body {
 **Dificultad**: ⭐⭐☆☆☆ Básico
 
 - **Descripción**: Aprende a evitar los errores más comunes, escribe código ordenado y descubre qué aprender después de este curso.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK6)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=Q4G3uNyfT2Y)
 
 #### Objetivos
 
