@@ -422,7 +422,7 @@ body {
 
 #### Práctica
 
-**Proyecto final**: [Abrir en CodePen – Página de Perfil](https://codepen.io/pen/REEMPLAZAR-L5)
+**Proyecto final**: [Abrir en CodePen – Página de Perfil](https://codepen.io/Elynor-Palma/pen/XJppQmy)
 
 **Ejercicio**: Personaliza la tarjeta de perfil con tus propios datos, tu foto y tu combinación de colores favorita.
 
