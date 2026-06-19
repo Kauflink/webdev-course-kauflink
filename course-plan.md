@@ -308,7 +308,7 @@ p {
 
 #### Práctica
 
-**Práctica**: [Abrir en CodePen – Introducción a CSS](https://codepen.io/pen/REEMPLAZAR-L4)
+**Práctica**: [Abrir en CodePen – Introducción a CSS](https://codepen.io/dgrbsmio-the-vuer/pen/RNKKdXP)
 
 **Ejercicio**: Dale a tu página un color de fondo, cambia el color del título y el tamaño de letra de los párrafos.
 
