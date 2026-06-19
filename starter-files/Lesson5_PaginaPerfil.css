@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eef2f7;
+  padding: 40px;
+}
+
+.tarjeta {
+  max-width: 400px;
+  background-color: #ffffff;
+  padding: 24px;
+  /* TODO: Centra la tarjeta con margin: 0 auto; */
+  /* TODO: Agrega un borde (border) y esquinas redondeadas (border-radius) */
+  /* TODO: Centra el texto con text-align: center; */
+}
+
+/* TODO: Haz la foto redonda con border-radius: 50%;
+   y dale un ancho (width) de 120px */
