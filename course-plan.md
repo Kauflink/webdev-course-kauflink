@@ -260,17 +260,17 @@ h1 {
 
 **Dónde se escribe el CSS**
 
-Lo más ordenado es escribir el CSS en su **propio archivo** (por ejemplo `estilos.css`) y enlazarlo desde el `<head>` del HTML con la etiqueta `<link>`:
+Lo más ordenado es escribir el CSS en su **propio archivo** (por ejemplo `Lesson4_IntroCSS.css`) y enlazarlo desde el `<head>` del HTML con la etiqueta `<link>`:
 
 ```html
 <head>
   <meta charset="UTF-8" />
   <title>Mi primer CSS</title>
-  <link rel="stylesheet" href="estilos.css" />
+  <link rel="stylesheet" href="Lesson4_IntroCSS.css" />
 </head>
 ```
 
-Y en el archivo `estilos.css` van las reglas:
+Y en el archivo `Lesson4_IntroCSS.css` van las reglas:
 
 ```css
 body {
@@ -374,7 +374,7 @@ El HTML enlaza su hoja de estilos con `<link>` y solo se ocupa de la estructura:
   <head>
     <meta charset="UTF-8" />
     <title>Página de perfil</title>
-    <link rel="stylesheet" href="estilos.css" />
+    <link rel="stylesheet" href="Lesson5_PaginaPerfil.css" />
   </head>
   <body>
     <div class="tarjeta">
@@ -387,7 +387,7 @@ El HTML enlaza su hoja de estilos con `<link>` y solo se ocupa de la estructura:
 </html>
 ```
 
-Y en `estilos.css` va todo el estilo de la tarjeta:
+Y en `Lesson5_PaginaPerfil.css` va todo el estilo de la tarjeta:
 
 ```css
 body {
