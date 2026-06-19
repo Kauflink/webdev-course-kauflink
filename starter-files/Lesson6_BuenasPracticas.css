@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 24px;
+}
+ 
+/* Clase .destacado con color de fondo y borde a la izquierda */
+.destacado {
+  background-color: #ecfdf5;
+  border-left: 4px solid #047857;
+  padding: 8px 12px;
+}
