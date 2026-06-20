@@ -75,7 +75,7 @@ Piensa en una página web como una casa:
 
 #### Práctica
 
-**Empieza a programar**: [Abrir en CodePen – Primera Página](https://codepen.io/pen/REEMPLAZAR-L1)
+**Empieza a programar**: [Abrir en CodePen – Primera Página](https://codepen.io/Joseph-Julius-Camargo-Brice-o/pen/myRRWmR)
 
 **Ejercicio**: Cambia el texto del `<h1>` por `"¡Hola, me llamo [tu nombre]!"` y escribe un párrafo sobre ti.
 
