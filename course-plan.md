@@ -42,10 +42,10 @@ Un sitio web es un conjunto de páginas que tu navegador (Chrome, Firefox, etc.)
 
 Piensa en una página web como una casa:
 
-| Tecnología | ¿Qué hace?                | Analogía              |
-| ---------- | ------------------------- | --------------------- |
-| **HTML**   | Da la **estructura**      | Las paredes y cuartos |
-| **CSS**    | Da el **estilo**          | La pintura y los muebles |
+| Tecnología | ¿Qué hace?           | Analogía                 |
+| ---------- | -------------------- | ------------------------ |
+| **HTML**   | Da la **estructura** | Las paredes y cuartos    |
+| **CSS**    | Da el **estilo**     | La pintura y los muebles |
 
 **Tu primera página web**
 
@@ -63,13 +63,13 @@ Piensa en una página web como una casa:
 </html>
 ```
 
-| Parte           | ¿Qué hace?                                  |
-| --------------- | ------------------------------------------- |
+| Parte             | ¿Qué hace?                                |
+| ----------------- | ----------------------------------------- |
 | `<!DOCTYPE html>` | Indica que el documento es HTML           |
-| `<head>`        | Información que no se ve (título, idioma)   |
-| `<body>`        | Todo lo que **sí** se ve en la página       |
-| `<h1>`          | Un título grande                            |
-| `<p>`           | Un párrafo de texto                         |
+| `<head>`          | Información que no se ve (título, idioma) |
+| `<body>`          | Todo lo que **sí** se ve en la página     |
+| `<h1>`            | Un título grande                          |
+| `<p>`             | Un párrafo de texto                       |
 
 > **Pausa y prueba:** pausa el video, copia la página en el editor en línea y obsérvala antes de continuar.
 
@@ -110,11 +110,11 @@ Al finalizar esta lección podrás:
 <a href="https://google.com">Visita Google</a>
 ```
 
-| Concepto    | Ejemplo                       | Explicación                              |
-| ----------- | ----------------------------- | ---------------------------------------- |
-| **Etiqueta**| `<a>` ... `</a>`              | Marca el inicio y el fin                 |
-| **Elemento**| `<a>Visita Google</a>`       | La etiqueta + su contenido               |
-| **Atributo**| `href="https://google.com"`  | Información extra dentro de la etiqueta   |
+| Concepto     | Ejemplo                     | Explicación                             |
+| ------------ | --------------------------- | --------------------------------------- |
+| **Etiqueta** | `<a>` ... `</a>`            | Marca el inicio y el fin                |
+| **Elemento** | `<a>Visita Google</a>`      | La etiqueta + su contenido              |
+| **Atributo** | `href="https://google.com"` | Información extra dentro de la etiqueta |
 
 > La mayoría de las etiquetas se **abren y se cierran**: `<p>texto</p>`. La etiqueta de cierre lleva una barra `/`.
 
@@ -160,7 +160,7 @@ Al finalizar esta lección podrás:
 **Dificultad**: ⭐⭐☆☆☆ Básico
 
 - **Descripción**: Usa los elementos más comunes: encabezados, párrafos, listas, imágenes y enlaces. Crearás una página de pasatiempos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK3)
+- **Enlace**: [Ver la lección](https://youtu.be/1THn0dzixSI)
 
 #### Objetivos
 
@@ -192,8 +192,8 @@ Hay seis niveles de encabezado, de `<h1>` (el más grande) a `<h6>` (el más peq
 </ul>
 ```
 
-- `<ul>` crea una lista con viñetas (*unordered list*).
-- Cada `<li>` es un elemento de la lista (*list item*).
+- `<ul>` crea una lista con viñetas (_unordered list_).
+- Cada `<li>` es un elemento de la lista (_list item_).
 
 **Imágenes y enlaces**
 
@@ -203,17 +203,17 @@ Hay seis niveles de encabezado, de `<h1>` (el más grande) a `<h6>` (el más peq
 <a href="https://developer.mozilla.org/es/">Aprende más en MDN</a>
 ```
 
-| Atributo | ¿Para qué sirve?                                  |
-| -------- | ------------------------------------------------- |
-| `src`    | La dirección de la imagen                         |
-| `alt`    | Texto que describe la imagen (importante)         |
-| `href`   | La dirección a la que lleva el enlace             |
+| Atributo | ¿Para qué sirve?                          |
+| -------- | ----------------------------------------- |
+| `src`    | La dirección de la imagen                 |
+| `alt`    | Texto que describe la imagen (importante) |
+| `href`   | La dirección a la que lleva el enlace     |
 
 > **Pausa y prueba:** cambia el número en `picsum.photos/300/200` (por ejemplo a `400/250`) y mira cómo cambia el tamaño de la imagen.
 
 #### Práctica
 
-**Práctica**: [Abrir en CodePen – Elementos Comunes](https://codepen.io/pen/REEMPLAZAR-L3)
+**Práctica**: [Abrir en CodePen – Elementos Comunes](https://codepen.io/Joseph-Julius-Camargo-Brice-o/pen/NPddpgy)
 
 **Ejercicio**: Crea una página de pasatiempos con un subtítulo `<h2>`, una lista de 3 pasatiempos, una imagen y un enlace a tu página favorita.
 
@@ -244,7 +244,7 @@ Al finalizar esta lección podrás:
 
 **¿Qué es CSS?**
 
-CSS (*Cascading Style Sheets*) decide **cómo se ve** cada elemento. Una regla de CSS tiene tres partes:
+CSS (_Cascading Style Sheets_) decide **cómo se ve** cada elemento. Una regla de CSS tiene tres partes:
 
 ```css
 h1 {
@@ -252,11 +252,11 @@ h1 {
 }
 ```
 
-| Parte        | Ejemplo  | Significado                       |
-| ------------ | -------- | --------------------------------- |
-| **Selector** | `h1`     | A qué elemento aplicar el estilo  |
-| **Propiedad**| `color`  | Qué quieres cambiar               |
-| **Valor**    | `blue`   | El nuevo valor                    |
+| Parte         | Ejemplo | Significado                      |
+| ------------- | ------- | -------------------------------- |
+| **Selector**  | `h1`    | A qué elemento aplicar el estilo |
+| **Propiedad** | `color` | Qué quieres cambiar              |
+| **Valor**     | `blue`  | El nuevo valor                   |
 
 **Dónde se escribe el CSS**
 
@@ -292,12 +292,12 @@ p {
 
 **Propiedades útiles para empezar**
 
-| Propiedad          | ¿Qué cambia?                |
-| ------------------ | --------------------------- |
-| `color`            | Color del texto             |
-| `background-color` | Color de fondo              |
-| `font-family`      | Tipo de letra               |
-| `font-size`        | Tamaño de letra             |
+| Propiedad          | ¿Qué cambia?    |
+| ------------------ | --------------- |
+| `color`            | Color del texto |
+| `background-color` | Color de fondo  |
+| `font-family`      | Tipo de letra   |
+| `font-size`        | Tamaño de letra |
 
 > **Pausa y prueba:** cambia el `color` del `<h1>` por tu color favorito (por ejemplo `red` o `#16a34a`) y observa el resultado en vivo.
 
@@ -356,11 +356,11 @@ Una **clase** es una etiqueta que tú inventas para aplicar el mismo estilo a un
 ```css
 .tarjeta {
   max-width: 400px;
-  margin: 0 auto;        /* centra la tarjeta horizontalmente */
+  margin: 0 auto; /* centra la tarjeta horizontalmente */
   border: 2px solid #1d4ed8;
-  border-radius: 12px;   /* esquinas redondeadas */
+  border-radius: 12px; /* esquinas redondeadas */
   padding: 24px;
-  text-align: center;    /* centra el texto */
+  text-align: center; /* centra el texto */
 }
 ```
 
@@ -409,7 +409,7 @@ body {
 .tarjeta img {
   width: 120px;
   height: 120px;
-  border-radius: 50%;   /* foto redonda */
+  border-radius: 50%; /* foto redonda */
   object-fit: cover;
 }
 
@@ -453,26 +453,31 @@ Al finalizar esta lección podrás:
 
 **Errores comunes y cómo evitarlos**
 
-| Error                          | Solución                                        |
-| ------------------------------ | ----------------------------------------------- |
-| No cerrar una etiqueta         | Toda `<p>` necesita su `</p>`                    |
-| Imagen sin `alt`               | Siempre describe la imagen: `alt="..."`         |
-| Olvidar el `;` en CSS          | Cada propiedad termina en `;`                   |
-| Repetir el mismo estilo        | Usa una **clase** reutilizable                  |
-| Mezclar mayúsculas en archivos | `foto.png` y `Foto.png` no son lo mismo         |
+| Error                          | Solución                                |
+| ------------------------------ | --------------------------------------- |
+| No cerrar una etiqueta         | Toda `<p>` necesita su `</p>`           |
+| Imagen sin `alt`               | Siempre describe la imagen: `alt="..."` |
+| Olvidar el `;` en CSS          | Cada propiedad termina en `;`           |
+| Repetir el mismo estilo        | Usa una **clase** reutilizable          |
+| Mezclar mayúsculas en archivos | `foto.png` y `Foto.png` no son lo mismo |
 
 **Ejemplo: corregir errores**
 
 ```html
 <!-- Código con errores -->
-<h1>Mi página
-<img src="foto.png" />
-<p>Hola
+<h1>
+  Mi página
+  <img src="foto.png" />
+  <p>
+    Hola
 
-<!-- Código corregido -->
-<h1>Mi página</h1>
-<img src="foto.png" alt="Mi foto" />
-<p>Hola</p>
+    <!-- Código corregido -->
+  </p>
+
+  <h1>Mi página</h1>
+  <img src="foto.png" alt="Mi foto" />
+  <p>Hola</p>
+</h1>
 ```
 
 **Buenas prácticas de escritura**
@@ -515,14 +520,14 @@ Al finalizar esta lección podrás:
 
 ### Todas las actividades prácticas
 
-| N° de lección | Actividad           | Empezar a programar                                    |
-| ------------- | ------------------- | ------------------------------------------------------ |
-| 1             | Primera página      | [CodePen](https://codepen.io/pen/REEMPLAZAR-L1)        |
-| 2             | Estructura HTML     | [CodePen](https://codepen.io/pen/REEMPLAZAR-L2)        |
-| 3             | Elementos comunes   | [CodePen](https://codepen.io/pen/REEMPLAZAR-L3)        |
-| 4             | Introducción a CSS  | [CodePen](https://codepen.io/pen/REEMPLAZAR-L4)        |
-| 5             | Página de perfil    | [CodePen](https://codepen.io/pen/REEMPLAZAR-L5)        |
-| 6             | Reto de errores     | [CodePen](https://codepen.io/pen/REEMPLAZAR-L6)        |
+| N° de lección | Actividad          | Empezar a programar                             |
+| ------------- | ------------------ | ----------------------------------------------- |
+| 1             | Primera página     | [CodePen](https://codepen.io/pen/REEMPLAZAR-L1) |
+| 2             | Estructura HTML    | [CodePen](https://codepen.io/pen/REEMPLAZAR-L2) |
+| 3             | Elementos comunes  | [CodePen](https://codepen.io/pen/REEMPLAZAR-L3) |
+| 4             | Introducción a CSS | [CodePen](https://codepen.io/pen/REEMPLAZAR-L4) |
+| 5             | Página de perfil   | [CodePen](https://codepen.io/pen/REEMPLAZAR-L5) |
+| 6             | Reto de errores    | [CodePen](https://codepen.io/pen/REEMPLAZAR-L6) |
 
 **¡Gracias por completar el curso!**
 
