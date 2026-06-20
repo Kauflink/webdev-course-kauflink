@@ -92,7 +92,7 @@ Piensa en una página web como una casa:
 **Dificultad**: ⭐⭐☆☆☆ Básico
 
 - **Descripción**: Aprende las piezas del HTML: etiquetas, elementos y atributos. Crearás una página "Sobre mí".
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK2)
+- **Enlace**: [Ver la lección](https://youtu.be/-O3_EZQBJIA)
 
 #### Objetivos
 
