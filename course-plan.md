@@ -325,7 +325,7 @@ p {
 **Dificultad**: ⭐⭐⭐⭐☆ Intermedio
 
 - **Descripción**: Combina todo lo aprendido para construir una página de perfil real: foto, datos y una tarjeta centrada con bordes y colores.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK5)
+- **Enlace**: [Ver la lección](https://youtu.be/Jcgq36kUrDg)
 
 #### Objetivos
 
