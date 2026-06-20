@@ -143,7 +143,7 @@ Al finalizar esta lección podrás:
 
 #### Práctica
 
-**Práctica**: [Abrir en CodePen – Estructura HTML](https://codepen.io/pen/REEMPLAZAR-L2)
+**Práctica**: [Abrir en CodePen – Estructura HTML](https://codepen.io/Joseph-Julius-Camargo-Brice-o/pen/dPNNvRG)
 
 **Ejercicio**: Crea una página "Sobre mí" con un `<h1>` y dos párrafos: uno con tu nombre y edad, otro con tu color favorito.
 
