@@ -22,7 +22,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 **Dificultad**: ⭐☆☆☆☆ Principiante absoluto
 
 - **Descripción**: Descubre qué es un sitio web y cómo funciona. Escribirás tu primera página web con un título y un párrafo.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=REEMPLAZAR-LINK1)
+- **Enlace**: [Ver la lección](https://youtu.be/T5Ordh_XCUE)
 
 #### Objetivos
 
