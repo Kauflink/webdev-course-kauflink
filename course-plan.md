@@ -225,7 +225,7 @@ Hay seis niveles de encabezado, de `<h1>` (el más grande) a `<h6>` (el más peq
 
 ---
 
-### Lección 4: Introducción a CSS (8 minutos)
+### Lección 4: Introducción a CSS (10 minutos)
 
 **Dificultad**: ⭐⭐⭐☆☆ Intermedio básico
 
@@ -522,12 +522,12 @@ Al finalizar esta lección podrás:
 
 | N° de lección | Actividad          | Empezar a programar                             |
 | ------------- | ------------------ | ----------------------------------------------- |
-| 1             | Primera página     | [CodePen](https://codepen.io/pen/REEMPLAZAR-L1) |
-| 2             | Estructura HTML    | [CodePen](https://codepen.io/pen/REEMPLAZAR-L2) |
-| 3             | Elementos comunes  | [CodePen](https://codepen.io/pen/REEMPLAZAR-L3) |
-| 4             | Introducción a CSS | [CodePen](https://codepen.io/pen/REEMPLAZAR-L4) |
-| 5             | Página de perfil   | [CodePen](https://codepen.io/pen/REEMPLAZAR-L5) |
-| 6             | Reto de errores    | [CodePen](https://codepen.io/pen/REEMPLAZAR-L6) |
+| 1             | Primera página     | [CodePen](https://codepen.io/Joseph-Julius-Camargo-Brice-o/pen/myRRWmR) |
+| 2             | Estructura HTML    | [CodePen](https://codepen.io/Joseph-Julius-Camargo-Brice-o/pen/dPNNvRG) |
+| 3             | Elementos comunes  | [CodePen](https://codepen.io/Joseph-Julius-Camargo-Brice-o/pen/NPddpgy) |
+| 4             | Introducción a CSS | [CodePen](https://codepen.io/dgrbsmio-the-vuer/pen/RNKKdXP) |
+| 5             | Página de perfil   | [CodePen](https://codepen.io/Elynor-Palma/pen/XJppQmy) |
+| 6             | Reto de errores    | [CodePen](https://codepen.io/DoomerGX21/pen/dPNNrRw) |
 
 **¡Gracias por completar el curso!**
 
@@ -555,4 +555,4 @@ Al finalizar esta lección podrás:
 
 El curso se elaboró de forma colaborativa. El plan de curso, los archivos de práctica y las soluciones de referencia se desarrollaron en este repositorio público de GitHub, donde los commits evidencian el aporte de cada integrante del equipo.
 
-**Fecha de entrega**: REEMPLAZAR-FECHA
+**Fecha de entrega**: 21 de junio de 2026, 23:00 (UTC-5)
